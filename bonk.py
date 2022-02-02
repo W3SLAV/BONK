@@ -33,4 +33,4 @@ if (os.path.exists("main.blin") == True):
     print("done!")
 
 else:
-    print("error, no file named main.py, try renaming your file to main.py")
+    print("error, no file named main.py, try renaming your file to main.blin")
